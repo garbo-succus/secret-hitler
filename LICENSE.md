@@ -1,114 +1,32 @@
-Secret Hitler © Goat, Wolf & Cabbage, illustrated by Mackenzie Schubert. Vector edition © 2019 Lee Yingtong Li, adapted from FragaholiC’s Tabletop Simulator assets. CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/. Changes: cropped PDF components, resized; party fronts and backs cropped from the original PnP. Role fronts use the Secret Hitler Online adaptation credited below; the role back is retained from the colour print-and-play edition. Office placards use the vector adaptation credited below. The saved game ZIP was regenerated through Probability onboarding from these assets, with generated models and textures. New text uses Atkinson Hyperlegible Mono (OFL).
-Source: https://www.secrethitler.com/
+## Secret Hitler artwork
 
-## Artwork sources
+Secret Hitler © Goat, Wolf & Cabbage; illustrations by Mackenzie Schubert.
+https://www.secrethitler.com/
 
-Role fronts: Secret Hitler Online by ShrimpCryptid (Peyton Lee) and contributors, adapted from the original artwork by Mackenzie Schubert for Goat, Wolf & Cabbage. CC BY-NC-SA 4.0. Six Liberal portraits, three Fascist portraits and one Hitler portrait; PNG fronts cropped to remove the rounded frame and bottom shadow, then padded with equal cream margins to a 63:89 aspect ratio; remaining artwork pixels retained without resampling. Files renamed for this repository.
-
-https://github.com/ShrimpCryptid/Secret-Hitler-Online/tree/development/frontend/src/assets
-
-https://github.com/ShrimpCryptid/Secret-Hitler-Online#creative-commons-license-and-credit
-
-Office SVGs: vector paths by David (pinkfishfrog), adapted from Secret Hitler artwork. Cropped, rotated, recoloured and resized to match the official print-and-play placards. CC BY-NC-SA 4.0.
-
-https://community.glowforge.com/t/secret-hitler/78708
-
-https://www.secrethitler.com/assets/Secret_Hitler_Print_and_Play.pdf
-
+Vector edition © 2019 Lee Yingtong Li, adapted from FragaholiC’s Tabletop Simulator assets.
 https://yingtongli.me/blog/2019/12/25/secret-hitler.html
 
-## Font licence
+Role fronts: Secret Hitler Online by ShrimpCryptid (Peyton Lee) and contributors, adapted from the original Secret Hitler artwork.
+https://github.com/ShrimpCryptid/Secret-Hitler-Online#creative-commons-license-and-credit
 
-Copyright 2020-2024 The Atkinson Hyperlegible Mono Project Authors (https://github.com/googlefonts/atkinson-hyperlegible-next-mono)
+Office SVGs: David (pinkfishfrog), adapted from Secret Hitler artwork.
+https://community.glowforge.com/t/secret-hitler/78708
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-https://openfontlicense.org
+Artwork modified for this repository. Licensed under CC BY-NC-SA 4.0:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+## 3D model
 
------------------------------------------------------------
-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
------------------------------------------------------------
+“9mm Luger Ammo (Free)” by Ziperi. Modified for this repository.
+https://sketchfab.com/3d-models/9mm-luger-ammo-free-25cac470713949619a6c766886e3cd0a
 
-PREAMBLE
-The goals of the Open Font License (OFL) are to stimulate worldwide
-development of collaborative font projects, to support the font creation
-efforts of academic and linguistic communities, and to provide a free and
-open framework in which fonts may be shared and improved in partnership
-with others.
+Licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
 
-The OFL allows the licensed fonts to be used, studied, modified and
-redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded,
-redistributed and/or sold with any software provided that any reserved
-names are not used by derivative works. The fonts and derivatives,
-however, cannot be released under any other type of license. The
-requirement for fonts to remain under this license does not apply
-to any document created using the fonts or their derivatives.
+## Typeface
 
-DEFINITIONS
-"Font Software" refers to the set of files released by the Copyright
-Holder(s) under this license and clearly marked as such. This may
-include source files, build scripts and documentation.
+Atkinson Hyperlegible Mono © 2020–2024 The Atkinson Hyperlegible Mono Project Authors.
+https://github.com/googlefonts/atkinson-hyperlegible-next-mono
 
-"Reserved Font Name" refers to any names specified as such after the
-copyright statement(s).
-
-"Original Version" refers to the collection of Font Software components as
-distributed by the Copyright Holder(s).
-
-"Modified Version" refers to any derivative made by adding to, deleting,
-or substituting -- in part or in whole -- any of the components of the
-Original Version, by changing formats or by porting the Font Software to a
-new environment.
-
-"Author" refers to any designer, engineer, programmer, technical
-writer or other person who contributed to the Font Software.
-
-PERMISSION & CONDITIONS
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of the Font Software, to use, study, copy, merge, embed, modify,
-redistribute, and sell modified and unmodified copies of the Font
-Software, subject to the following conditions:
-
-1) Neither the Font Software nor any of its individual components,
-in Original or Modified Versions, may be sold by itself.
-
-2) Original or Modified Versions of the Font Software may be bundled,
-redistributed and/or sold with any software, provided that each copy
-contains the above copyright notice and this license. These can be
-included either as stand-alone text files, human-readable headers or
-in the appropriate machine-readable metadata fields within text or
-binary files as long as those fields can be easily viewed by the user.
-
-3) No Modified Version of the Font Software may use the Reserved Font
-Name(s) unless explicit written permission is granted by the corresponding
-Copyright Holder. This restriction only applies to the primary font name as
-presented to the users.
-
-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
-Software shall not be used to promote, endorse or advertise any
-Modified Version, except to acknowledge the contribution(s) of the
-Copyright Holder(s) and the Author(s) or with their explicit written
-permission.
-
-5) The Font Software, modified or unmodified, in part or in whole,
-must be distributed entirely under this license, and must not be
-distributed under any other license. The requirement for fonts to
-remain under this license does not apply to any document created
-using the Font Software.
-
-TERMINATION
-This license becomes null and void if any of the above conditions are
-not met.
-
-DISCLAIMER
-THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
-OTHER DEALINGS IN THE FONT SOFTWARE.
+SIL Open Font License 1.1:
+https://openfontlicense.org/open-font-license-official-text/

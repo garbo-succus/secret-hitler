@@ -1,0 +1,164 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v4.5.0",
+    "version": "2.0",
+    "copyright": "9mm Luger Ammo (Free) by Ziperi, CC BY 4.0. https://sketchfab.com/3d-models/9mm-luger-ammo-free-25cac470713949619a6c766886e3cd0a"
+  },
+  "accessors": [
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 1824
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 567,
+      "max": [
+        0.004980000201612711,
+        0.029121000319719315,
+        0.004980000201612711
+      ],
+      "min": [
+        -0.004980000201612711,
+        0,
+        -0.004980000201612711
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 567
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 567
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 3376
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_avif": {
+          "source": 0
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_avif": {
+          "source": 1
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_avif": {
+          "source": 2
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/avif",
+      "uri": "base-color.avif"
+    },
+    {
+      "mimeType": "image/avif",
+      "uri": "normal.avif"
+    },
+    {
+      "mimeType": "image/avif",
+      "uri": "metallic-roughness.avif"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "luger.bin",
+      "byteLength": 3376
+    }
+  ],
+  "materials": [
+    {
+      "name": "Brass and copper",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "9mm Luger",
+      "mesh": 0
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "EXT_texture_avif",
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsRequired": [
+    "EXT_texture_avif",
+    "KHR_draco_mesh_compression"
+  ]
+}
