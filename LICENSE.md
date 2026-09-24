@@ -1,7 +1,17 @@
-Secret Hitler © Goat, Wolf & Cabbage. Vector edition © 2019 Lee Yingtong Li, adapted from FragaholiC’s Tabletop Simulator assets. CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/. Changes: cropped PDF components, resized; raster-only role and office artwork exported as AVIF; party fronts and backs cropped from the original PnP. Office placards use original raster artwork cropped from page 3 of the official Secret_Hitler_Print_and_Play.pdf. New text uses Atkinson Hyperlegible Mono (OFL).
+Secret Hitler © Goat, Wolf & Cabbage, illustrated by Mackenzie Schubert. Vector edition © 2019 Lee Yingtong Li, adapted from FragaholiC’s Tabletop Simulator assets. CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/. Changes: cropped PDF components, resized; party fronts and backs cropped from the original PnP. Role fronts use the Secret Hitler Online adaptation credited below; the role back is retained from the colour print-and-play edition. Office placards use the vector adaptation credited below. The saved game ZIP retains the earlier artwork and raster conversions. New text uses Atkinson Hyperlegible Mono (OFL).
 Source: https://www.secrethitler.com/
 
 ## Artwork sources
+
+Role fronts: Secret Hitler Online by ShrimpCryptid (Peyton Lee) and contributors, adapted from the original artwork by Mackenzie Schubert for Goat, Wolf & Cabbage. CC BY-NC-SA 4.0. Six Liberal portraits, three Fascist portraits and one Hitler portrait; original PNGs retained without image changes and renamed for this repository.
+
+https://github.com/ShrimpCryptid/Secret-Hitler-Online/tree/development/frontend/src/assets
+
+https://github.com/ShrimpCryptid/Secret-Hitler-Online#creative-commons-license-and-credit
+
+Office SVGs: vector paths by David (pinkfishfrog), adapted from Secret Hitler artwork. Cropped, rotated, recoloured and resized to match the official print-and-play placards. CC BY-NC-SA 4.0.
+
+https://community.glowforge.com/t/secret-hitler/78708
 
 https://www.secrethitler.com/assets/Secret_Hitler_Print_and_Play.pdf
 
