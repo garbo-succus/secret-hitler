@@ -1,9 +1,9 @@
-Secret Hitler © Goat, Wolf & Cabbage, illustrated by Mackenzie Schubert. Vector edition © 2019 Lee Yingtong Li, adapted from FragaholiC’s Tabletop Simulator assets. CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/. Changes: cropped PDF components, resized; party fronts and backs cropped from the original PnP. Role fronts use the Secret Hitler Online adaptation credited below; the role back is retained from the colour print-and-play edition. Office placards use the vector adaptation credited below. The saved game ZIP retains the earlier artwork and raster conversions. New text uses Atkinson Hyperlegible Mono (OFL).
+Secret Hitler © Goat, Wolf & Cabbage, illustrated by Mackenzie Schubert. Vector edition © 2019 Lee Yingtong Li, adapted from FragaholiC’s Tabletop Simulator assets. CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/. Changes: cropped PDF components, resized; party fronts and backs cropped from the original PnP. Role fronts use the Secret Hitler Online adaptation credited below; the role back is retained from the colour print-and-play edition. Office placards use the vector adaptation credited below. The saved game ZIP was regenerated through Probability onboarding from these assets, with generated models and textures. New text uses Atkinson Hyperlegible Mono (OFL).
 Source: https://www.secrethitler.com/
 
 ## Artwork sources
 
-Role fronts: Secret Hitler Online by ShrimpCryptid (Peyton Lee) and contributors, adapted from the original artwork by Mackenzie Schubert for Goat, Wolf & Cabbage. CC BY-NC-SA 4.0. Six Liberal portraits, three Fascist portraits and one Hitler portrait; original PNGs retained without image changes and renamed for this repository.
+Role fronts: Secret Hitler Online by ShrimpCryptid (Peyton Lee) and contributors, adapted from the original artwork by Mackenzie Schubert for Goat, Wolf & Cabbage. CC BY-NC-SA 4.0. Six Liberal portraits, three Fascist portraits and one Hitler portrait; PNG fronts cropped to remove the rounded frame and bottom shadow, then padded with equal cream margins to a 63:89 aspect ratio; remaining artwork pixels retained without resampling. Files renamed for this repository.
 
 https://github.com/ShrimpCryptid/Secret-Hitler-Online/tree/development/frontend/src/assets
 
